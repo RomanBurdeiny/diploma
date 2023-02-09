@@ -1,0 +1,27 @@
+.inputWrapper {
+  position: absolute;
+  right: 32px;
+  display: flex;
+  align-items: center;
+  width: 200px!important;
+}
+
+.searchInput {
+  font-size: 15px;
+  cursor: cell;
+  border-radius: 20px!important;
+  height: 45px;
+  background-color: #D7DAE8!important;
+}
+
+@media (max-width:600px) {
+  .inputWrapper {
+    top: 15px;
+    right: 10px;
+    width: 120px!important;
+    height: 20px;
+  }
+  .inputWrapper label {
+    font-size: 8px;
+  }
+}
