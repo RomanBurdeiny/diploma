@@ -8,7 +8,7 @@
   width: 30%;
   padding: 5px;
   margin: 5px 0;
-  background-color: rgb(25, 27, 31);
+  background-color: rgb(157, 7, 226);
   border-radius: 10px;
   position: relative;
   color: white;
@@ -16,7 +16,7 @@
 }
 
 .gameBlock:hover {
-  background-color: white;
+  background-color: rgb(255, 0, 157);
   color: rgb(25, 27, 31);
 }
 

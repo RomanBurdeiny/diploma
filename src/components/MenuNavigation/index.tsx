@@ -36,7 +36,7 @@ const MENU_ITEMS: MenuItemType[] = [
   },
   {
     name: "Favorite Games",
-    slug: "FavoriteGames",
+    slug: "Favorite",
     icon: <FavoriteIcon />,
   },
 ];
